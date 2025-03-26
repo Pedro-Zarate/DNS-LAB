@@ -1,4 +1,5 @@
 # DNS-LAB
+<H1> Understanding DNS </H1>
 <img style=" " src="https://i.imgur.com/2bJp2DO.png"> 
 
 <!---
@@ -47,9 +48,9 @@
 <h1>CNAME Record Exercise </h1>
 <ul>
   <li> Go back to DC-1 and create a CNAME record that points the host “NumOneWeb” to “www.google.com”</li>
-  <img src"https://i.imgur.com/t6C3HPm.png">
+  <img src="https://i.imgur.com/t6C3HPm.png">
   <li> Go back to Client-1 and attempt to ping “NumOneWeb”, observe the results of the CNAME record</li>
-    <img src"https://i.imgur.com/nhrPcgX.png">
+    <img src="https://i.imgur.com/nhrPcgX.png">
   <li>On Client-1, nslookup “NumOneWeb”, observe the results of the CNAME record</li>
  <img src="https://i.imgur.com/UuMBte0.png"> 
 
